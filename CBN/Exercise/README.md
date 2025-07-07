@@ -8,5 +8,5 @@ actor.user.name -> principal.user.userid
 
 In the second exercise, modify the above to code:
 actor.user.name -> principal.user.email_address
-result.status -> tsecurity_result.action
+result.status -> security_result.action
 
